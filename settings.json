@@ -14,6 +14,7 @@
     "editor.semanticHighlighting.enabled": false,
     "editor.minimap.enabled": false,
     "breadcrumbs.enabled": false,
+    "editor.formatOnSave": true,
     "window.titleBarStyle": "native",
     "workbench.activityBar.location": "hidden",
     "window.menuBarVisibility": "toggle",
